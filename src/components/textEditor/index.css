@@ -1,0 +1,36 @@
+.bg-container {
+  background-color: #25262c;
+  background-size: cover;
+  height: 100vh;
+  padding: 15px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.editor-container {
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+}
+.details-container {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: roboto;
+  align-items: center;
+}
+
+.editing-container {
+  background-color: #25262c;
+  border-radius: 5px;
+  border: 1px solid #f8fafc;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.buttons-container {
+  border-bottom: 1px solid #f8fafc;
+}
+li {
+  list-style-type: none;
+}
